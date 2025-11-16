@@ -1,7 +1,7 @@
 # walmart
 # Retail Weekly Sales Dashboard
 
-This repository contains a **Power BI dashboard** analyzing weekly sales data for Store 1, along with relevant economic and environmental indicators.
+This repository contains a **Power BI dashboard** analyzing weekly sales data for Stores, along with relevant economic and environmental indicators.
 
 ---
 
@@ -35,7 +35,6 @@ The dataset covers weekly sales from early 2010 and allows analysis of both **no
 ---
 ## 📸 Dashboard Preview
 ![Dashboard Screenshot](walmart.png)  
-*Screenshot of the main dashboard view.*
 
 
 
